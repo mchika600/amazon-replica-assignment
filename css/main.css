@@ -1,0 +1,54 @@
+.place-holder {
+    display: block;
+    margin:0 auto;
+    margin-top: 100px;
+    
+}
+
+.form {
+    margin-top: 50px;
+    border: 1px solid grey;
+    padding: 15px;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    background-color: orange;
+    color: black;
+    }
+
+.label {
+    font-weight: bold;
+    display: inline;
+    margin-right: 150px;
+}
+
+.logo {
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-crt-act {
+    display: block;
+    width: 100%;
+    background-color: #F5F5F5;
+    color: black;
+}
+
+#content{
+    margin-top: 15px;
+    border-top:1px solid #999;
+    padding:10px;
+    font-weight: lighter;
+}
+
+.titlebox{
+    position: absolute;
+    padding: 0 5px;
+    background: white;
+    left: 29%;
+    transform: translate(26px, -23px);
+}
